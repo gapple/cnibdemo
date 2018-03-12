@@ -773,7 +773,7 @@ $settings['entity_update_batch_size'] = 50;
 
 require 'acquia.settings.php';
 
-$settings['install_profile'] = 'umami';
+$settings['install_profile'] = 'demo_umami';
 
 /**
  * Load local development override configuration, if available.
