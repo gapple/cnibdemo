@@ -19,6 +19,7 @@
         "drupal/field_group": "^3.0",
         "drupal/panels": "^4.2",
         "drupal/pathauto": "^1.1",
+        "drupal/redirect": "^1.0",
         "drupal/token": "^1.1",
         "drupal/webform": "^5.0@RC",
         "drush/drush": "^9.0.0",
