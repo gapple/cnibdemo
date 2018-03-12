@@ -3,3 +3,5 @@ docroot/files
 docroot/sites/*/files
 docroot/sites/*/private
 
+*.local.php
+!example.*.local.php

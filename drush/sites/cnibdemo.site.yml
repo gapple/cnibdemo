@@ -1,0 +1,10 @@
+dev:
+  host: free-7259.devcloud.hosting.acquia.com
+  user: cnibdemo.dev
+  root: /var/www/html/cnibdemo.dev/docroot
+  uri: http://cnibdemoledvpvqknv.devcloud.acquia-sites.com
+stage:
+  host: free-7259.devcloud.hosting.acquia.com
+  user: cnibdemo.test
+  root: /var/www/html/cnibdemo.test/docroot
+  uri: http://cnibdemomrzean34ob.devcloud.acquia-sites.com
