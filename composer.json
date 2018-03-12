@@ -16,6 +16,7 @@
         "drupal/console": "^1.0.2",
         "drupal/core": "~8.5",
         "drupal/panels": "^4.2",
+        "drupal/token": "^1.1",
         "drupal/webform": "^5.0@RC",
         "drush/drush": "^9.0.0",
         "webflo/drupal-finder": "^1.0.0",
