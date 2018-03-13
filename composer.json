@@ -18,6 +18,8 @@
         "drupal/core": "~8.5",
         "drupal/entity_browser": "^2.0",
         "drupal/field_group": "^3.0",
+        "drupal/page_manager": "^4.0@beta",
+        "drupal/panelizer": "^4.0",
         "drupal/panels": "^4.2",
         "drupal/pathauto": "^1.1",
         "drupal/redirect": "^1.0",
