@@ -5,3 +5,6 @@ docroot/sites/*/private
 
 *.local.php
 !example.*.local.php
+
+# DrupalVM
+.vagrant/

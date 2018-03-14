@@ -27,6 +27,7 @@
         "drupal/token": "^1.1",
         "drupal/webform": "^5.0@RC",
         "drush/drush": "^9.0.0",
+        "geerlingguy/drupal-vm": "^4.8",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3"
     },
